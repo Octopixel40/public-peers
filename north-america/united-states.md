@@ -49,12 +49,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Nevada
 
-* Las Vegas, NV operated by [3DT](https://3dt.net) - 1 Gbit/s Dual-Stack
-  * `tcp://neo.node.3dt.net:9002`
-  * `tls://neo.node.3dt.net:9003`
-  * `quic://neo.node.3dt.net:9004`
-  * `wss://neo.node.3dt.net:9005`
-
 * Las Vegas, NV, operated by [newsdeef](https://newsdeef.eu) @ 1 Gbit/s Dual-Stack
   * `tls://srv.newsdeef.eu:59999`
   * `tcp://srv.newsdeef.eu:9999`
@@ -83,9 +77,6 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Texas
 
-* Dallas, TX operated by [micr0-dev](https://micr0.dev)
-  * `tcp://micr0.dev:7991`
-  * `tls://micr0.dev:7992`
 * Ft. Worth, TX operated by [Nyx](https://nyx.everypizza.im)
   * `tcp://ygg.everypizza.im:9441`
 
@@ -102,6 +93,11 @@ Yggdrasil configuration file to peer with these nodes.
   * `quic://[2603:c020:4015:b937:a1c7:aff8:b558:d1fe]:23165`
   * `quic://129.80.167.244:23165`
 
+* Ashburn, VA, OpenBSD VPS on Hetzner us-east, operated by [Alexa](https://goblin.technology/@lxak) (1Gbps, dual-stack)
+  * `tcp://ygg-dc.lxak.net:8879`
+  * `tls://ygg-dc.lxak.net:8880`
+  * `quic://ygg-dc.lxak.net:8881`
+
 * Manassas, hosted on Netcup, operated by [Marek Küthe](https://mk16.de/)
   * `tcp://ygg4.mk16.de:1337?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
   * `tls://ygg4.mk16.de:1338?key=000000573433e11f23768b078bcdc10b42712a7b131d6d04b82042ffc0c97df0`
@@ -110,7 +106,7 @@ Yggdrasil configuration file to peer with these nodes.
 
 ### Washington
 
-* Liberty Lake, WA operated by jeff.
+* Liberty Lake, WA operated by [jeff](https://github.com/majestrate).
   * `tls://23.184.48.86:993`
   * `tls://[2602:fc24:18:7a42::1]:993`
   * `quic://23.184.48.86:993`

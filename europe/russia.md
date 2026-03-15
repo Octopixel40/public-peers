@@ -53,24 +53,20 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
 * Moscow, vps public node, operated by [theshezzee](mailto:thewizard3424@gmail.com), 10 Gbit/s, IPv4 Only
   * `tcp://yggdrasil.1337.moe:7676`
 
-* Moscow, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
-  * `tcp://msk1.neonxp.ru:7991`
-  * `tcp://195.2.74.155:7991`
-  * `tls://msk1.neonxp.ru:7992`
-  * `tls://195.2.74.155:7992`
-  * `ws://msk1.neonxp.ru:7993`
-  * `ws://195.2.74.155:7993`
-  * `quic://msk1.neonxp.ru:7994`
-  * `quic://195.2.74.155:7994`
+* Moscow, VPS, public node, operated by [Orbit173](https://github.com/Orbit173), 1 Gbit/s, IPv4/IPv6
+  * `wss://assets.route172.de:443/api/request/media?key=00000000000da547036a01860a9e3a0476a525415801ec34f4e5b59fd6055b88`
+ 
+* Moscow, VPS, public node, operated by [CERT](https://github.com/kzorin52), 10 Gbit/s, IPv4/IPv6
+  * `tcp://ru2.cert.dev:7040`
+  * `tls://ru2.cert.dev:7041`
+  * `quic://ru2.cert.dev:7042`
+  * `ws://ru2.cert.dev:7043`
 
 ### Saint Petersburg
 
 * Saint Petersburg, home user public node, operated by [paulll](https://paulll.cc), *rate-limited to 200 Mbit/s IPv4/IPv6*
   * `tcp://box.paulll.cc:13337`
   * `tls://box.paulll.cc:13338`
-
- * Saint Petersburg, public node, operated by [Boxard](https://github.com/Boxard), *1 GB/S*
-  * `tcp://91.220.109.93:8080`
 
 ### Omsk
 
@@ -130,18 +126,6 @@ Add connection strings from the below list to the `Peers: []` section of your Yg
   * `tls://ip4.01.tom.ru.dioni.su:9003`
   * `quic://ip4.01.tom.ru.dioni.su:9002`
   * `ws://ip4.01.tom.ru.dioni.su:9004`
-
-### Kazan
-
-* Kazan, vps public node, operated by [NeonXP](mailto:i@neonxp.ru), IPv4 Only
-  * `tcp://kzn1.neonxp.ru:7991`
-  * `tcp://195.58.51.167:7991`
-  * `tls://kzn1.neonxp.ru:7992`
-  * `tls://195.58.51.167:7992`
-  * `ws://kzn1.neonxp.ru:7993`
-  * `ws://195.58.51.167:7993`
-  * `quic://kzn1.neonxp.ru:7994`
-  * `quic://195.58.51.167:7994`
 
 ### Kursk
 
